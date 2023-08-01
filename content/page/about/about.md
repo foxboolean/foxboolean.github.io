@@ -1,5 +1,5 @@
 ---
-title: 关于我
+title: 关于
 description: 阅读、学习、生活
 date: '2023-08-01'
 aliases:
