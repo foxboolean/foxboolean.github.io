@@ -1,19 +1,25 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 一切的开始
+description: 关于这个空间一切的开始
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2023-08-01 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - 生活
 tags:
-    - Example Tag
+    - 思考
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+一切的开始起源于，记录自己的工作、阅读、生活痕迹，具体内容参考以下分类：
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+**工作**：
+- 编程
+- 职场
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+**阅读**
+- 书斋
+- 笔记
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+**生活**
+- 游记
+- 思考
