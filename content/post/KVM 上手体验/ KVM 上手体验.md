@@ -3,14 +3,14 @@ title: KVM 上手体验
 description: 两台电脑共用一套外设
 slug: kvm
 date: 2023-08-01 00:00:00+0000
-image: cover.jpg
+image: 1.jpg
 categories:
     - 生活
 tags:
     - 数码
 ---
 
-![1](1.jpg)
+![1](https://fox-obsidian.oss-cn-nanjing.aliyuncs.com/img/1.jpg)
 
 许多家里同时拥有 windows 电脑和 mac 电脑的朋友可能和我有一样的烦恼，mac 用于学习、win 用于游戏，两台设备如果连接两套键鼠，未免太浪费，而手动切换实在麻烦。
 
@@ -37,7 +37,7 @@ KVM 切换器整体的接口分为 3  类：
 2. 输出接口
 3. 供电接口
 
-![2](2.jpg)
+![2](https://fox-obsidian.oss-cn-nanjing.aliyuncs.com/img/2.jpg)
 
 ### 使用体验
 
