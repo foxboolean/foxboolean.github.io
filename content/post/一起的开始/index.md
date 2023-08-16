@@ -3,7 +3,6 @@ title: 一切的开始
 description: 关于这个空间一切的开始
 slug: hello-world
 date: 2023-08-01 00:00:00+0000
-image: cover.jpg
 categories:
     - 生活
 tags:

@@ -3,7 +3,6 @@ title: KVM 上手体验
 description: 两台电脑共用一套外设
 slug: kvm
 date: 2023-08-01 00:00:00+0000
-image: 1.jpg
 categories:
     - 生活
 tags:
